@@ -8,9 +8,9 @@ Linux Messenger - A  efficient messaging application for seamless communication 
 - Make sure you have Python and pip installed on your machine.
 
 
-    sudo yum update
-    sudo yum install python3
-    sudo yum install python3-pip
+        sudo yum update
+        sudo yum install python3
+        sudo yum install python3-pip
 - Install Flask and SQLAlchemy.
         
         pip3 install flask flask_sqlalchemy
